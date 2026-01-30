@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f8c6e3-76a0-40b9-9c8a-dc60c390b020" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Loops2.java.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/SumOf2no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/VariableBasics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/ListTupleDictSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/RangeFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InpUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/InpUser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MadLibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/MadLibs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShapeDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/ShapeDraw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkingWithNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/WorkingWithNum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Old/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +26,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "ankitaydv2"
+      &quot;assignee&quot;: &quot;ankitaydv2&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "ankitaydv2"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;ankitaydv2&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ankitaydv2/PythonProject.git&quot;,
@@ -71,13 +58,16 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Calculator.executor": "Run",
+    "Python.Factorial.executor": "Run",
     "Python.Function.executor": "Run",
     "Python.InpUser.executor": "Run",
+    "Python.ListTupleDictSet.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Loops2.java.executor": "Run",
     "Python.MadLibs.executor": "Run",
     "Python.Range.executor": "Run",
+    "Python.RangeFunctions.executor": "Run",
     "Python.ShapeDraw.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.SumOf2no.executor": "Run",
