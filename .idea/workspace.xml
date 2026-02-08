@@ -5,10 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f8c6e3-76a0-40b9-9c8a-dc60c390b020" name="Changes" comment="Python Basics">
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/ListTupleDictSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/RangeFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prime AiMl/Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Assign5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/DataJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Inheritence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/ListCompr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/OperationFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/ProductStore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/WordSearch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/WordSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/cities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prime AiMl/sample2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +74,25 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Abstraction.executor": "Run",
+    "Python.Assign5.executor": "Run",
     "Python.Calculator.executor": "Run",
+    "Python.DataJson.executor": "Run",
+    "Python.ExceptionHandling.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Function.executor": "Run",
+    "Python.Inheritence.executor": "Run",
     "Python.InpUser.executor": "Run",
+    "Python.ListCompr.executor": "Run",
     "Python.ListTupleDictSet.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Loops.executor": "Run",
     "Python.Loops2.java.executor": "Run",
     "Python.MadLibs.executor": "Run",
+    "Python.OOPs.executor": "Run",
+    "Python.OperationFile.executor": "Run",
+    "Python.Polymorphism.executor": "Run",
+    "Python.ProductStore.executor": "Run",
     "Python.Range.executor": "Run",
     "Python.RangeFunctions.executor": "Run",
     "Python.ShapeDraw.executor": "Run",
@@ -73,9 +100,13 @@
     "Python.SumOf2no.executor": "Run",
     "Python.VariableBasics.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.WordSearch.executor": "Run",
     "Python.WorkingWithNum.executor": "Run",
     "Python.app.executor": "Run",
     "Python.basic.executor": "Run",
+    "Python.cities.executor": "Run",
+    "Python.log.executor": "Run",
+    "Python.sample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -158,6 +189,16 @@
           <url>file://$PROJECT_DIR$/Old/Lists.py</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Prime AiMl/ProductStore.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Prime AiMl/log.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
